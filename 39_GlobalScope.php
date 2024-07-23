@@ -1,8 +1,8 @@
 <?php 
 /*
-    * Global Scope 
-    * Berada diluar function
-    * Tidak bisa diakses di dalam function
+* Global Scope 
+* Berada diluar function
+* Tidak bisa diakses di dalam function
 */
 
 

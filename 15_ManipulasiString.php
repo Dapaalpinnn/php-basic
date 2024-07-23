@@ -1,17 +1,22 @@
 <?php 
 
-// Dot Operator
+/* 
+* Manipulasi String 
+* Dot Operator
+* Konversi Tipe Data
+* Mengakses karakter (Mengakses melebihi index akan terjadi error!!)
+* Variable Parsing
+* Curly Brace (Menggunakan kurung kurawal)
+*/
+
 
 echo "---------- Dot Operator ----------" . PHP_EOL;
 
 $name = "Budi Setiawan";
-
 echo "Nama : " . $name . PHP_EOL;
 echo "Nilai : " . 100 . PHP_EOL;
 
 
-
-// Konversi Tipe Data
 
 echo "---------- Konversi Tipe Data ----------" . PHP_EOL;
 
@@ -26,10 +31,6 @@ echo "Hasil konversi ke Float adalah = " . var_dump($float) . PHP_EOL;
 
 
 
-// Mengakses karakter
-// Mengakses melebihi index akan terjadi error!!
-
-
 echo "---------- Mengakses karakter ----------" . PHP_EOL;
 
 $myName = "Version Control System";
@@ -39,8 +40,6 @@ echo "Hasil index ke-5 = " . $myName[10] . PHP_EOL;
 
 
 
-// Variable Parsing
-
 echo "---------- Variable Parsing ----------" . PHP_EOL;
 
 $name = "Victor";
@@ -48,11 +47,11 @@ echo "Hi $name, happy learn PHP!" . PHP_EOL;
 
 
 
-// Curly Brace (Menggunakan kurung kurawal)
-
 echo "---------- Curly Brace ----------" . PHP_EOL;
 
 $person = "Felix";
-echo  "Welcome to {$person}'s Homepage!" . PHP_EOL; // Menggabungkan sesuatu pada value variabel pada saat ditampilkan
+// Menggabungkan sesuatu pada value variabel pada saat ditampilkan
+echo  "Welcome to {$person}'s Homepage!" . PHP_EOL; 
+
 ?>
 

@@ -1,9 +1,9 @@
 <?php 
 
 /* 
-    * Arrow function dan anonymous function adalah dua hal yang sama 
-    * bedanya variable di luar closure bisa digunakan
-    * Arrow function dikhususkan untuk membuat function yang sederhana
+* Arrow function dan anonymous function adalah dua hal yang sama 
+* bedanya variable di luar closure bisa digunakan
+* Arrow function dikhususkan untuk membuat function yang sederhana
 */
 
 

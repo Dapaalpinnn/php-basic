@@ -1,8 +1,8 @@
 <?php 
 
 /* 
-    * Global Keyword 
-    * Digunakan untuk mengakses Global Scope
+* Global Keyword 
+* Digunakan untuk mengakses Global Scope
 */
 
 $name = "Steve Joe";

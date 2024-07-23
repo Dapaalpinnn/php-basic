@@ -1,9 +1,9 @@
 <?php 
 
 /* 
-    * Local Scope
-    * Variable yang dibuat di dalam function
-    * Hanya bisa diakses oleh function itu sendiri
+* Local Scope
+* Variable yang dibuat di dalam function
+* Hanya bisa diakses oleh function itu sendiri
 */
 
 

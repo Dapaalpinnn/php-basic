@@ -1,8 +1,8 @@
 <?php 
 
 /* 
-    * Expression
-    * Apapun yang memiliki nilai atau value
+* Expression
+* Apapun yang memiliki nilai atau value
 */
 
 $a = 5; // 5 adalah expression
@@ -18,8 +18,8 @@ $value = getValue(); // getValue() adalah expression karena memiliki nilai 100
 
 
 /* 
-    * Statement
-    * Satu kalimat lengkap
+* Statement
+* Satu kalimat lengkap
 */
 
 echo $fullName = "Alexa Alexandra" . PHP_EOL;
@@ -29,8 +29,8 @@ var_dump($date);
 
 
 /* 
-    * Block
-    * Kumpulan nol atau lebih statement
+* Block
+* Kumpulan nol atau lebih statement
 */
 
 function runApp($program)

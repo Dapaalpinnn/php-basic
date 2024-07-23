@@ -1,7 +1,6 @@
 <?php 
 
 // Union
-
 $user = 
 [
     "Username" => "Alexandra",
@@ -21,7 +20,6 @@ echo "Hasil dari hasil operator Union adalah: ", var_dump($data) . PHP_EOL;
 
 
 // Equality and Identity
-
 $department = 
 [
     "Department" => "Informatics Engineering",                                                           

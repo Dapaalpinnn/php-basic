@@ -1,9 +1,9 @@
 <?php 
 
 /* 
-    * Anonymous Function / Closure
-    * Tidak memiliki nama Function
-    * Biasanya disimpan dalam variable function
+* Anonymous Function / Closure
+* Tidak memiliki nama Function
+* Biasanya disimpan dalam variable function
 */
 
 $anonymous = function (string $name){

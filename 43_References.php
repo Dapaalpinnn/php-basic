@@ -1,8 +1,8 @@
 <?php 
 
 /* 
-    * Reference
-    * Seperti mengcopy value
+* Reference
+* Seperti mengcopy value
 */
 
 

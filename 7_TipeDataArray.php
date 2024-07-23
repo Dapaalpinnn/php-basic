@@ -1,6 +1,6 @@
 <?php 
 
-// MEMBUAT ARRAY
+// Membuat array
 $values = array(1, 2, 3, 4);
 var_dump($values);
 
@@ -8,7 +8,7 @@ $names = ["John", "Steven", "Budi"];
 var_dump($names);
 
 
-// OPERASI ARRAY
+// Operasi array
 // Mengakses data array
 echo "Mengakses data array : " . PHP_EOL;
 var_dump($names[0]);

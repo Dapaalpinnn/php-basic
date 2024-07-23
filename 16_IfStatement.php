@@ -1,9 +1,9 @@
 <?php 
 
 /*
-    * If Statement  
-    * Syntax Alternatif => Menggunakan titik dua (:)
-    * Direkomendasikan menggunakan kurung kurawal
+* If Statement  
+* Syntax Alternatif => Menggunakan titik dua (:)
+* Direkomendasikan menggunakan kurung kurawal
 */
 
 $nilai = 100;

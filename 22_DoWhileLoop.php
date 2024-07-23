@@ -1,8 +1,8 @@
 <?php 
 
 /* 
-    * Do While Loop
-    * Minimal dieksekusi sekali meskipun tidak bernilai true
+* Do While Loop
+* Minimal dieksekusi sekali meskipun tidak bernilai true
 */
 
 // Inisialisasi nilai awal

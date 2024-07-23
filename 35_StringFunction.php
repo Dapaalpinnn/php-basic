@@ -25,7 +25,7 @@ function sum(...$values){
 sum(...$num);
 
 
-// Lainnya
+// Other...
 var_dump(join(", ",[1,2,3,4,5,6,7,8,9])); // Menggabungkan
 var_dump(explode(" ", "Informatics Engineering")); // dipecah menjadi array
 var_dump(strtolower("MANCHESTER UNITED"));
